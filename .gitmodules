@@ -1,0 +1,3 @@
+[submodule "vendor/other_repo"]
+	path = vendor/other_repo
+	url = https://github.com/algoholicayush/ai-contract-project.git
